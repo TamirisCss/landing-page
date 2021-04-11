@@ -8,4 +8,4 @@ https://tamiriscss.github.io/landing-page/
 * CSS
 * ES6 JavaScript
 
-
+### Project of Udacity Frontend Web Developer Nanodegree.
